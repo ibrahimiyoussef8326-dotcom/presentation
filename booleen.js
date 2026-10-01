@@ -23,5 +23,5 @@ console.log(entree); // Changez les deux à false et relancez
 //== wax egal
 //!= wax ma egalx
 //=== equal value and type
-//!== not equal value and type
+//!== not equal and type
 
